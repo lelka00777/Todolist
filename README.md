@@ -1,4 +1,4 @@
-# START  https://lelka00777.github.io/todolist/
+# START ✅ https://lelka00777.github.io/todolist/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
