@@ -14,7 +14,6 @@ export type TodolistsType = {
 function App() {
 
 
-
     // let [todolists, setTodolists] = useState<Array<TodolistsType>>([
     //     {id: todolistID1, title: 'What to learn', filter: 'all'},
     //     {id: todolistID2, title: 'What to buy', filter: 'all'},
@@ -69,7 +68,7 @@ function App() {
     }
 
 
-    return (<div className="App">
+   return (<div className="App">
 
         {
             todolists.map(el => {
